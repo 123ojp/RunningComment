@@ -1,0 +1,24 @@
+{
+  "name": "彈幕",
+  "version": "1.3.2",
+  "description": "本產品適用於網頁介面，在台上演講時，可使用本插件，讓觀眾掃描qrcode發送彈幕到演講者電腦，增加互動性。",
+  "permissions": [
+    "activeTab", 
+    "declarativeContent", 
+    "storage"
+  ],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "設定頻道名稱",
+    "default_icon": "images/fox.png"
+
+  },
+  "icons": {
+    "128": "images/fox.png"
+  },
+  "manifest_version": 2
+}
