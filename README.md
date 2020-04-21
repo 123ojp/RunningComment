@@ -8,7 +8,7 @@
 ## Install Chrome Extensions
 - https://chrome.google.com/webstore/detail/running-comment/mllofkmalpcebhalfcaaociodidoimbd
 ## Fire Comment
-- Fire Comment
+- https://danmo.foxo.tw/eng
 
 ### Screenshot
  - ![](https://i.imgur.com/BFO5Qz9.png)
