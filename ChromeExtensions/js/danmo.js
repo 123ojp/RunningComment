@@ -1,6 +1,6 @@
 'use strict';
 var isActive
-let css = `
+var css = `
 #canvas_danmo{
     pointer-events: none;
     position: fixed;
